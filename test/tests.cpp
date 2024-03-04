@@ -1,4 +1,4 @@
-
+// Copyright 2024 Nikolay Kochetov
 #include <gtest/gtest.h>
 #include <cstdint>
 #include "alg.h"
